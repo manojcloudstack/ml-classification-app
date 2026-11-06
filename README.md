@@ -13,9 +13,9 @@ Build and compare five classification models (Logistic Regression, Decision Tree
 - **Preprocessing:** StandardScaler inside sklearn Pipelines for Logistic Regression, KNN and SVM (so the scaler is saved with the model). Decision Tree and Naive Bayes use raw features.
 
 ## c. GitHub Repository Link
-`<https://github.com/manojcloudstack/ml-classification-app>`
+`https://github.com/manojcloudstack/ml-classification-app`
 
-**Live Streamlit app:** `<https://ml-classification-app-54irzdukwipczzul3knqgc.streamlit.app/>`
+**Live Streamlit app:** `https://ml-classification-app-54irzdukwipczzul3knqgc.streamlit.app/`
 
 ```
 project-folder/
