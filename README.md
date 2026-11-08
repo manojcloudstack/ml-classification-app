@@ -1,4 +1,4 @@
-# Breast Cancer Classification – 5 ML Models + Streamlit App
+# Breast Cancer Classification
 
 ## a. Problem Statement
 Build and compare five classification models (Logistic Regression, Decision Tree, KNN, Gaussian Naive Bayes, SVM) to predict whether a breast tumour is **malignant or benign** from measurements of cell nuclei taken from digitised images of a fine-needle aspirate (FNA). The models are evaluated with Accuracy, AUC, Precision, Recall, F1 and MCC, and demonstrated through an interactive Streamlit web app.
